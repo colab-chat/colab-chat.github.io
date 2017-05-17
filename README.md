@@ -1,2 +1,3 @@
-# colab-chat.github.io
-Landing page for CoLab
+## Landing page for CoLab
+
+See colab.chat for CoLab's temporary site
